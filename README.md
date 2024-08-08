@@ -2,12 +2,12 @@
 Gen AI Play Ground
 
 # ChatVertexAI
-ChatVertexAI.py use the Google's Vertex AI's api by langchain packege.\
+ChatVertexAI.py use the Google's Vertex AI's API by langchain packege.\
 
 
 # ChatGoogleGenerativeAI
-ChatGoogleGenerativeAI.py user Google's Generative AI's api by langchain packege.\
-You can use a local or online image as input and analyze the context of the image.
+ChatGoogleGenerativeAI.py use Google's Generative AI's API by langchain packege.\
+You can use a local or online image as input and AI will analyze the context of the image.
 
 ### Notice: you may need to set your proxy if you can not access Vertex API (Code 503).
 
