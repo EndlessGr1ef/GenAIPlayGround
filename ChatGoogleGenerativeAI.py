@@ -20,4 +20,12 @@ message = HumanMessage(
         {"type": "image_url", "image_url": "/Users/EndlessGrief/Documents/GitHub/GenAIPlayGround/image.png"},
     ]
 )
+
+# The value of image_url can be any of the following:
+# A public image URL
+# A gcs file (e.g., "gcs://path/to/file.png")
+# A local file path
+# A base64 encoded image (e.g., data:image/png;base64,abcd124)
+# A PIL image
+
 llm.invoke([message])
