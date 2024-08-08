@@ -12,5 +12,5 @@ You can use a local or online image as input and analyze the context of the imag
 ### Notice: you may need to set your proxy if you can not access Vertex API (Code 503).
 
 ### LangChain Doc:
-###### https://python.langchain.com/v0.2/docs/integrations/chat/google_vertex_ai_palm/
+###### https://python.langchain.com/v0.2/docs/integrations/platforms/google/
 
