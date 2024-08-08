@@ -1,5 +1,5 @@
 # GenAIPlayGround
-Gen AI Play Ground
+Gen AI Play Ground with Google's AI
 
 # ChatVertexAI
 ChatVertexAI.py use the Google's Vertex AI's API by langchain packege.\
