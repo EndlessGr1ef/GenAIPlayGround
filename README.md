@@ -14,3 +14,5 @@ You can use a local or online image as input and AI will analyze the context of 
 ### LangChain Doc:
 ###### https://python.langchain.com/v0.2/docs/integrations/platforms/google/
 
+# Install the required packages
+    pip install -r requirements.txt
